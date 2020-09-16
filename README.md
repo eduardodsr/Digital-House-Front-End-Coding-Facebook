@@ -1,9 +1,9 @@
-# Digital House Front End Coding Facebook
+# Digital House Front End Coding Facebook 🎯
 
 Estação Hack from Facebook by Digital House 
  
 
-### 1. Front End Coding Facebook IV - 2020
+### 1. Front End Coding Facebook IV - 2020 :fire:
 
 💻:  Curso on-line da DigitalHouse. 
 
@@ -14,23 +14,23 @@ Os exercícios são realizados em JavaScript.
  ![](https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/logo.jpg?raw=true)
 
 
-### 2. Cronograma do Curso Online:
+### 2. Cronograma do Curso Online: :compass: 
 
 Início: 16/09/2020
 
 Término: __ /__ /2020
 
 
-### 3. Capítulo 1: Nivelamento:
+### 3. Capítulo 1: Nivelamento: :green_book:
 
-1. Introdução à programação
+1. Introdução à programação [✔️]
 2. Variáveis 
 3. Condicionais 
 4. Loops 
 5. Funções 
 6. Exercícios Integradores
 
-### 4. Capítulo 2: Desafio Online:
+### 4. Capítulo 2: Desafio Online: :blue_book:
 
 1. Desafio
 
@@ -42,7 +42,7 @@ https://www.digitalhouse.com/br/bolsas/estacao-hack-curso
 https://github.com/eduardodsr/DigitalHouse/
 
 
-### 6. Contato:
+### 6. Contato: :mailbox_with_no_mail:
 
 :email: :EDUARDO DA SILVA RODRIGUES 
 
