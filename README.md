@@ -5,7 +5,9 @@ Estação Hack from Facebook by Digital House
 
 ### 1. Front End Coding Facebook IV - 2020
 
-💻:  Curso on-line da DigitalHouse. Programa de bolsas da Estação Hack from Facebook by Digital House.
+💻:  Curso on-line da DigitalHouse. 
+
+Programa de bolsas da Estação Hack from Facebook by Digital House.
 
 Os exercícios são realizados em JavaScript.
 
