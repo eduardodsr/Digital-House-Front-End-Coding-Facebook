@@ -9,7 +9,7 @@ Estação Hack from Facebook by Digital House
 
 Programa de bolsas da Estação Hack from Facebook by Digital House.
 
-Os exercícios são realizados em JavaScript.
+Os exercícios de programação são realizados em JavaScript.
 
  ![](https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/logo.jpg?raw=true)
 
@@ -44,9 +44,7 @@ https://github.com/eduardodsr/DigitalHouse/
 
 ### 6. Contato: :mailbox_with_no_mail:
 
-:email: :EDUARDO DA SILVA RODRIGUES 
-
-:email: :eduardodsr@gmail.com
+:email: : eduardodsr@gmail.com | EDUARDO DA SILVA RODRIGUES 
 
 
 ### End
