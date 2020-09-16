@@ -23,8 +23,8 @@ Término: __ /__ /2020
 
 ### 3. Capítulo 1: Nivelamento: :green_book:
 
-:white_check_mark: 1. Introdução à programação 
-:white_check_mark: 2. Variáveis 
+1. Introdução à programação :white_check_mark:
+2. Variáveis :white_check_mark:
 3. Condicionais 
 4. Loops 
 5. Funções 
