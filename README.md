@@ -35,7 +35,7 @@ Término: __ /__ /2020
 1. Desafio
 
 
-### 5. Link do Site:
+### 5. Link do Site: :link:
 
 https://www.digitalhouse.com/br/bolsas/estacao-hack-curso
 
