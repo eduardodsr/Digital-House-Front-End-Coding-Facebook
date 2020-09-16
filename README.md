@@ -11,7 +11,7 @@ Programa de bolsas da Estação Hack from Facebook by Digital House.
 
 Os exercícios são realizados em JavaScript.
 
- ![](https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/logo.jpg?raw=true)
+ ![](https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/logo.jpg?raw=true)
 
 
 ### 2. Cronograma do Curso Online:
