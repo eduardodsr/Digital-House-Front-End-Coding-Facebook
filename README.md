@@ -14,7 +14,7 @@ Os exercícios de programação são realizados em JavaScript.
  ![](https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/logo.jpg?raw=true)
 
 
-### 2. Cronograma do Curso Online: :Hourglass Done:
+### 2. Cronograma do Curso Online: :watch: :hourglass:
 
 Início: 16/09/2020
 
