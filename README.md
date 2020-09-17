@@ -25,7 +25,7 @@ Término: __ /__ /2020
 
 1. Introdução à programação :white_check_mark:
 2. Variáveis :white_check_mark:
-3. Condicionais 
+3. Condicionais :white_check_mark:
 4. Loops 
 5. Funções 
 6. Exercícios Integradores
