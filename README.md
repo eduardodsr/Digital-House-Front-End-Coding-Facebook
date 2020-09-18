@@ -47,4 +47,8 @@ https://github.com/eduardodsr/DigitalHouse/
 :email: : eduardodsr@gmail.com | EDUARDO DA SILVA RODRIGUES 
 
 
-### End
+### 7. FIM (Print de Conclusão do Curso)
+
+ <p align="center">
+  <img src=https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/print_fim.png?raw=true" alt="imagem" width="800px" />
+ </p>
