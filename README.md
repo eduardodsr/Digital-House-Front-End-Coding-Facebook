@@ -28,7 +28,7 @@ Término: __ /__ /2020
 3. Condicionais :white_check_mark:
 4. Loops  :white_check_mark:
 5. Funções  :white_check_mark:
-6. Exercícios Integradores
+6. Exercícios Integradores  :white_check_mark:
 
 ### 4. Capítulo 2: Desafio Online: :blue_book:
 
