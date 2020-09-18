@@ -18,7 +18,7 @@ Os exercícios de programação são realizados em JavaScript.
 
 Início: 16/09/2020
 
-Término: __ /__ /2020
+Término: 18/29/2020
 
 
 ### 3. Capítulo 1: Nivelamento: :green_book:
@@ -32,7 +32,7 @@ Término: __ /__ /2020
 
 ### 4. Capítulo 2: Desafio Online: :blue_book:
 
-1. Desafio
+1. Desafio | Projeto Final  :white_check_mark:
 
 
 ### 5. Link do Site: :link:
