@@ -50,5 +50,5 @@ https://github.com/eduardodsr/DigitalHouse/
 ### 7. FIM (Print de Conclusão do Curso)
 
  <p align="center">
-  <img src=https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/print_fim.png?raw=true" alt="imagem" width="800px" />
+  <img src=https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/print_fim.png?raw=true" alt="imagem" width="800px" />                                 <img src=https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/print_fim2.png?raw=true" alt="imagem" width="800px" />
  </p>
