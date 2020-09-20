@@ -18,7 +18,7 @@ Os exercícios de programação são realizados em JavaScript.
 
 Início: 16/09/2020
 
-Término: 18/29/2020
+Término: 18/09/2020
 
 
 ### 3. Capítulo 1: Nivelamento: :green_book:
